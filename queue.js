@@ -1,4 +1,5 @@
 function Queue() {
+	"use strict"
 	
 	var first, last, item;
 
